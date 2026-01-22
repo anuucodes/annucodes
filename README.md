@@ -9,16 +9,20 @@
 ## 🏅 Certifications
 
 ### 📘 IBM Product Management Fundamentals  
-- Gained foundational knowledge of product lifecycle management  
-- Learned stakeholder communication, roadmap planning, and market analysis  
+**Issued by:** IBM  
+🔗 [View Certificate](./Product-Management-Certication.pdf)
+
+---
 
 ### 🤖 Artificial Intelligence Certification  
-- Understanding of AI concepts, real-world applications, and ethical considerations  
-- Exposure to machine learning basics and intelligent systems  
+**Focus:** AI concepts, applications, and ethics  
+🔗 [View Certificate](./Artificial-intelligence-Certication.pdf)
+
+---
 
 ### 💼 Job Essentials Certification  
-- Developed workplace readiness skills  
-- Strengthened communication, professionalism, and problem-solving abilities  
+**Focus:** Workplace readiness and professional skills  
+🔗 [View Certificate](./Job-Essential-Certification.pdf)
 
 ---
 
